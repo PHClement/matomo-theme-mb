@@ -1,0 +1,26 @@
+{
+    "name": "MB",
+    "description": "a minimalistic alternative to the default sparkline style",
+    "version": "0.1.0",
+    "theme": true,
+    "require": {
+      "piwik": ">=3.6.0-b1,<4.0.0-b1"
+    },
+    "stylesheet": "stylesheets/theme.less",
+    "homepage": "https://meilleursbiens.pro",
+    "license": "GPL v3+",
+    "keywords": ["theme", "mb", "modern"],
+    "support": {
+      "email": "c.delouvencourt@nocturne.app",
+      "issues": "https://meilleursbiens.pro",
+      "forum": "https://meilleursbiens.pro",
+      "source": "https://meilleursbiens.pro"
+    },
+    "authors": [
+      {
+        "name": "Clément de Louvencourt",
+        "email": "c.delouvencourt@nocturne.app",
+        "homepage": "https://meilleursbiens.pro"
+      }
+    ]
+}
