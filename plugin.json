@@ -1,7 +1,7 @@
 {
     "name": "MB",
-    "description": "a minimalistic alternative to the default sparkline style",
-    "version": "0.1.0",
+    "description": "MeilleursBiens Matomo theme",
+    "version": "0.1.1",
     "theme": true,
     "require": {
       "piwik": ">=3.6.0-b1,<4.0.0-b1"
